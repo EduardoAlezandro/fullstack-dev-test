@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679513228025",
+    "project_id": "smash-test-2945a",
+    "storage_bucket": "smash-test-2945a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679513228025:android:afcfc7c8212e5070f71828",
+        "android_client_info": {
+          "package_name": "com.test.smash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0LPlfIDQqPBeQDyNXVFDruARwaPvLGE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
